@@ -22,7 +22,7 @@ To set up and run this project, ensure you have the following:
 3. **Setup Instructions**:
    - Clone this repository:
      ```bash
-     git clone https://github.com/<your-username>/Keyboard_Wizardry.git
+     git clone https://github.com/JayMalli/Keyboard_Wizardry.git
      ```
    - Navigate to the project directory:
      ```bash
